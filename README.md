@@ -4,26 +4,17 @@
   and names mentioned under r/cryptocurrency. Compound scores > 0.2 are considered positive sentiment while < 0.2
   are negative, and neutral falls under 0
 
-## Bullish Ticker Mentions
+## Bullish Mentions
 
 ![](Project/screenshots/bul_ticker.jpg) ![](Project/screenshots/bull_name.jpg)
 
-## Bullish Name Mentions
 
-![](Project/screenshots/bull_name.jpg)
+## Bearish Mentions
 
-## Bearish Ticker Mentions
+![](Project/screenshots/bear_ticker.jpg) ![](Project/screenshots/bear_name.jpg)
 
-![](Project/screenshots/bear_ticker.jpg)
 
-## Bearish Name Mentions
+## Neutral Mentions
 
-![](Project/screenshots/bear_name.jpg)
+![](Project/screenshots/neu_ticker.jpg) ![](Project/screenshots/neu_name.jpg)
 
-## Neutral Ticker Mentions
-
-![](Project/screenshots/neu_ticker.jpg)
-
-## Neutral Name Mentions
-
-![](Project/screenshots/neu_name.jpg)
