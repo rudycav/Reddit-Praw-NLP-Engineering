@@ -6,7 +6,7 @@
 
 ## Bullish Ticker Mentions
 
-![](Project/screenshots/bull_ticker.jpg)
+![](Project/screenshots/bul_ticker.jpg) ![](Project/screenshots/bull_name.jpg)
 
 ## Bullish Name Mentions
 
