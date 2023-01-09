@@ -1,0 +1,6 @@
+pandas
+matplotlib
+praw
+nltk
+plotly
+requests
