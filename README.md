@@ -2,8 +2,9 @@
 
 ![](Project/screenshots/arch.JPG)
 
-- This project uses Reddit's API praw to scrape the contents of r/cryptocurrency. Flask development is used
-  as the front end application pipeline, and Apche Airflow is the workflow scheduler
+- This project uses Reddit's API praw to scrape the contents of r/cryptocurrency. Popular comments in the thread
+  are collected for NLP analysis. Airflow will be the workflow scheduler, and Flask development will be used for 
+  the front end pipeline
 
 - The NLP package used in this sentiment analysis includes Vader SentimentIntensityAnalyzer, stop words, 
   lemmatization, punctuation & digits removal to analyze the current sentiment on cryptocurrency tickers
