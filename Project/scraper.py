@@ -148,15 +148,3 @@ def reddit_scraper():
 
 if __name__ == '__main__':
     app.run(debug=True)
-'''
-  fig1 = px.bar(df_bull_ticker, x='Name', y='Frequencies', color='City', barmode='group')
-  fig1 = px.bar(df_bull_slug, x='Name', y='Frequencies', color='City', barmode='group')
-
-  fig2 = px.bar(df_bear_ticker, x='Name', y='Frequencies', color='City', barmode='group')
-  fig2 = px.bar(df_bear_slug, x='Name', y='Frequencies', color='City', barmode='group')
-
-  fig3 = px.bar(df_neutral_ticker, x='Name', y='Frequencies', color='City', barmode='group')
-  fig3 = px.bar(df_neutral_slug, x='Name', y='Frequencies', color='City', barmode='group')
-
-  graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-'''
