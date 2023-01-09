@@ -1,6 +1,9 @@
 # RedditScraper
 
-![](Project/screenshots/arc.JPG)
+![](Project/screenshots/arch.JPG)
+
+- This project uses Reddit's API praw to scrape the contents of r/cryptocurrency. Flask development is used
+  as the front end application pipeline, and Apche Airflow is the workflow scheduler
 
 - The NLP package used in this sentiment analysis includes Vader SentimentIntensityAnalyzer, stop words, 
   lemmatization, punctuation & digits removal to analyze the current sentiment on cryptocurrency tickers
