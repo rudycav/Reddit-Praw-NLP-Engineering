@@ -11,6 +11,10 @@
   and names mentioned under r/cryptocurrency. Compound scores > 0.2 are considered positive sentiment while < 0.2
   are negative, and neutral falls under 0
   
+## Airflow DAG
+
+![](Project/screenshots/airflow.JPG)
+  
 
 ## Flask development application
 
