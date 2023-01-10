@@ -1,6 +1,6 @@
 # RedditScraper
 
-![](Project/screenshots/arch.JPG)
+![](Project/screenshots/architect.JPG)
 
 - This project uses Reddit's API praw to scrape the contents of r/cryptocurrency. Popular comments in the thread
   are collected for NLP analysis. Airflow will be the workflow scheduler, and Flask development will be used for 
