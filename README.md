@@ -14,6 +14,24 @@
 ## Airflow DAG
 
 ![](Project/screenshots/airflow.JPG)
+
+## Bullish mentions
+
+![](Project/screenshots/bullish_ticker.JPG)
+
+![](Project/screenshots/bullish_names.JPG)
+
+## Bearish mentions
+
+![](Project/screenshots/bearish_tickers.JPG)
+
+![](Project/screenshots/bearish_names.JPG)
+
+## Neutral mentions
+
+![](Project/screenshots/neutral_tickers.JPG)
+
+![](Project/screenshots/neutral_names.JPG)
   
 
 ## Flask development application
