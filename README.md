@@ -17,17 +17,18 @@
 
 ## Bullish mentions
 
+- Sentiment analysis is performed on the number of times each ticker/name was mentioned in the body. A bullish/ bearish
+/neutral sentiment can be identified
+
 ![](Project/screenshots/bullish_ticker.JPG)
 
 ![](Project/screenshots/bullish_names.JPG)
 
-## Bearish mentions
 
 ![](Project/screenshots/bearish_tickers.JPG)
 
 ![](Project/screenshots/bearish_names.JPG)
 
-## Neutral mentions
 
 ![](Project/screenshots/neutral_tickers.JPG)
 
@@ -35,6 +36,8 @@
   
 
 ## Flask development application
+
+- This is the front end development containing the per bullish/bearish/neutral sentiment
 
 ![](Project/screenshots/chart.png)
 
