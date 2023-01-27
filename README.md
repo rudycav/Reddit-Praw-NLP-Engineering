@@ -15,7 +15,7 @@
 
 ![](Project/screenshots/airflow.JPG)
 
-## Bullish mentions
+## Sentiment Analysis
 
 - Sentiment analysis is performed on the number of times each ticker/name was mentioned in the body. A bullish/ bearish
 /neutral sentiment can be identified
