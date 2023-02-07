@@ -74,12 +74,13 @@ def reddit_scraper():
         for comments in topic_list:
           if isinstance(comments, MoreComments):
             continue
-          df = df.append({'title': topics.title,
-                          #'author': comments.author,
-                          'comments': comments.body,
-                          #'upvote_score': comments.score
-                          },                                          
-                          ignore_index=True) 
+          temp_df = pd.DataFrame({'title': [topics.title],
+                        'author': [comments.author],
+                        'id': [comments.id],
+                        'comments': [comments.body],
+                        'created_utc': [comments.created_utc],
+                        'upvote_score': [comments.score]})
+          df = pd.concat([df, temp_df], ignore_index=True)
 
       return df
 
